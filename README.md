@@ -3,8 +3,7 @@
 Welcome to **New Age Printers**, a modern, visually engaging website built to showcase premium printing services with real-time interactivity and creative flair.
 
 ## 🚀 Live Site
-Visit the live website: [newageprinters.com](https://newageprinters.com)  
-*(Replace with your actual domain once connected)*
+Visit the live website: [newageprinterz.com](https://newageprinterz.com)  
 
 ## 🎯 Purpose
 This site was designed to:
